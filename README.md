@@ -1,4 +1,5 @@
 Hi there! 👋 I'm Trupti Deshmukh
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Trupti+Deshmukh;Full+Stack+Developer;Java+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
