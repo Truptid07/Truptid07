@@ -88,17 +88,15 @@ I'm a passionate software developer who enjoys building scalable web application
 
 ---
 
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Truptid07&theme=tokyo-night)
 
 ---
 
 ## 🌐 Connect with Me
 
-📧 Email: **your-email@example.com**
+📧 Email: deshmukhtrupti97@gmail.com
 
-💼 LinkedIn: **https://linkedin.com/in/your-link**
+💼 LinkedIn: https://www.linkedin.com/in/trupti-deshmukh-792180349/
+
 
 🌐 Portfolio: **Coming Soon**
 
